@@ -1,0 +1,19 @@
+*{
+    background-color: bisque;
+}
+
+h1{
+    font-size: 55px;
+    border: 4px solid greenyellow;
+    color: black;
+    display: flex;
+
+}
+#btn{
+    cursor: pointer;
+    background-color: blue;
+    color: white;
+    font-size: 22px;
+    border-radius: 10px;
+    margin-left: 5rem;
+}
